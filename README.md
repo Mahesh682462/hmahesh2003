@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://hmahesh2003.github.io" target="_blank">
+  <a href="https://Mahesh682462.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/hmahesh2003" target="_blank">
+  <a href="https://linkedin.com/in/Mahesh682462" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -33,17 +33,17 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/hmahesh2003" target="_blank">
+  <a href="https://github.com/Mahesh682462" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmahesh2003&style=flat-square&color=6E40C9&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahesh682462&style=flat-square&color=6E40C9&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/hmahesh2003?style=flat-square&color=7B5EA7&label=Followers&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Mahesh682462?style=flat-square&color=7B5EA7&label=Followers&logo=github"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/hmahesh2003?style=flat-square&color=9B72CF&label=Stars&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Mahesh682462?style=flat-square&color=9B72CF&label=Stars&logo=github"/>
 </p>
 
 ---
@@ -150,7 +150,7 @@ A fully custom digital portfolio designed and engineered from scratch, built to 
 | **Compatibility** | Cross-device, cross-browser tested |
 | **SEO** | Semantic markup, meta optimization |
 | **Impact** | Live portfolio demonstrating frontend range |
-| **Repository** | [View on GitHub →](https://github.com/hmahesh2003) |
+| **Repository** | [View on GitHub →](https://github.com/Mahesh682462) |
 
 </div>
 
@@ -175,7 +175,7 @@ A production-quality weather application that fetches and displays live meteorol
 | **Design** | Responsive, mobile-first, interactive UI |
 | **Features** | Real-time fetch, dynamic rendering, error handling |
 | **Impact** | Demonstrates async JS and API integration skills |
-| **Repository** | [View on GitHub →](https://github.com/hmahesh2003) |
+| **Repository** | [View on GitHub →](https://github.com/Mahesh682462) |
 
 </div>
 
@@ -200,7 +200,7 @@ A fully functional browser-based calculator engineered with pure JavaScript. Emp
 | **UX Focus** | Fast calculations, seamless interaction model |
 | **Compatibility** | Desktop and mobile optimized |
 | **Impact** | Demonstrates JavaScript logic and DOM mastery |
-| **Repository** | [View on GitHub →](https://github.com/hmahesh2003) |
+| **Repository** | [View on GitHub →](https://github.com/Mahesh682462) |
 
 </div>
 
@@ -325,13 +325,13 @@ A fully functional browser-based calculator engineered with pure JavaScript. Emp
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmahesh2003&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=9B72CF&icon_color=7B5EA7&text_color=C9B8E8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahesh682462&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=9B72CF&icon_color=7B5EA7&text_color=C9B8E8"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahesh2003&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B72CF&text_color=C9B8E8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh682462&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B72CF&text_color=C9B8E8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmahesh2003&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9B72CF&fire=7B5EA7&currStreakLabel=C9B8E8&sideLabels=C9B8E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B72CF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh682462&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9B72CF&fire=7B5EA7&currStreakLabel=C9B8E8&sideLabels=C9B8E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B72CF" />
 </p>
 
 ---
@@ -339,7 +339,7 @@ A fully functional browser-based calculator engineered with pure JavaScript. Emp
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmahesh2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=9B72CF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh682462&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=9B72CF" />
 </p>
 
 ---
@@ -347,7 +347,7 @@ A fully functional browser-based calculator engineered with pure JavaScript. Emp
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmahesh2003&bg_color=0D0D1A&color=9B72CF&line=7B5EA7&point=C9B8E8&area=true&area_color=6E40C9&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh682462&bg_color=0D0D1A&color=9B72CF&line=7B5EA7&point=C9B8E8&area=true&area_color=6E40C9&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -355,7 +355,7 @@ A fully functional browser-based calculator engineered with pure JavaScript. Emp
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hmahesh2003/hmahesh2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Mahesh682462/Mahesh682462/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
@@ -397,15 +397,15 @@ open_to:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/hmahesh2003">
+  <a href="https://linkedin.com/in/Mahesh682462">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/hmahesh2003">
+  <a href="https://github.com/Mahesh682462">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://hmahesh2003.github.io">
+  <a href="https://Mahesh682462.github.io">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
 </p>
